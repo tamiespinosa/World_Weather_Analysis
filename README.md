@@ -7,7 +7,7 @@
 - [Resources](#Resources)
 
 ## <a name="OverviewProject"></a>Overview of Project
-In thi project we generated a randomn list of cities and then did an API call to the World Wide Weather to collect the current weather data from those cities. We then picked a temperature range for which we wanted the temperature to stay in. We used google places to find hotel information for those cities. Then we created markers with the hotel information and weather data and plotted them in google maps. Finally we picked 4 cities and we created an itenerary, using google directions. 
+In thi project we generated a randomn list of cities and then did an API call to the Open Weather Map [[2]](#2) to collect the current weather data from those cities. We then picked a temperature range for which we wanted the temperature to stay in. We used google places to find hotel information for those cities. Then we created markers with the hotel information and weather data and plotted them in google maps [[3]](#3). Finally we picked 4 cities and we created an itenerary, using google directions. 
 
 ## <a name="Results"></a>Results
 
@@ -22,4 +22,9 @@ In thi project we generated a randomn list of cities and then did an API call to
 
 ## <a name="Summary"></a> Summary
 
+This excercise served as practive of using Python and APIs to gather information from different websites and plot them in a map. 
+
 ## <a name="Resources"></a>Resources
+[1] Python
+<a name="2">[2]</a> https://openweathermap.org/api
+<a name="3">[3]</a> https://mapsplatform.google.com/
