@@ -26,5 +26,7 @@ This excercise served as practive of using Python and APIs to gather information
 
 ## <a name="Resources"></a>Resources
 [1] Python
+
 <a name="2">[2]</a> https://openweathermap.org/api
+
 <a name="3">[3]</a> https://mapsplatform.google.com/
