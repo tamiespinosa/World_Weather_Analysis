@@ -11,13 +11,13 @@ In thi project we generated a randomn list of cities and then did an API call to
 
 ## <a name="Results"></a>Results
 
-<p align="center"> <img src="Vacation_Search/WeatherPy_vacation_map.png" width ="70%" alt="WeatherPy_vacation_map"> </p>
+<p align="center"> <img src="Vacation_Search/WeatherPy_Vacation_map.png" width ="70%" alt="WeatherPy_Vacation_map"> </p>
 <p align="center"> Figure 1: Cities with Weather between 70 and 96F and markers </p> 
 
 <p align="center"> <img src="Vacation_Itinerary/WeatherPy_travel_map.png" width ="70%" alt="WeatherPy_travel_map"> </p>
 <p align="center"> Figure 2: Itenerary between 4 cities </p> 
 
-<p align="center"> <img src="Vacation_Search/WeatherPy_travel_map_markers.png" width ="70%" alt="WeatherPy_travel_map_markers"> </p>
+<p align="center"> <img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png" width ="70%" alt="WeatherPy_travel_map_markers"> </p>
 <p align="center"> Figure 3: Itenerary between 4 cities and markers </p> 
 
 ## <a name="Summary"></a> Summary
